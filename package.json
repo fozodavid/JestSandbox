@@ -1,5 +1,5 @@
 {
-  "name": "official",
+  "name": "jest-sandbox",
   "version": "1.0.0",
   "description": "Playing around with Jest Mock",
   "main": "index.js",
