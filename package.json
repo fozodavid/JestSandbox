@@ -1,0 +1,22 @@
+{
+  "name": "official",
+  "version": "1.0.0",
+  "description": "Playing around with Jest Mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "mock",
+    "sandbox"
+  ],
+  "author": "David Fozo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.1.0",
+    "jest": "^22.1.4",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
